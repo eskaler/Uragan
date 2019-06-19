@@ -1,0 +1,29 @@
+{
+  "mainFile": "D:/PROG/PYTHON/Uragan/main.py", 
+  "use-tabs": false, 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "Uragan", 
+  "license": "", 
+  "url": "", 
+  "pythonPath": "C:/Users/Alexey/AppData/Local/Programs/Python/Python36-32/python.exe", 
+  "preExecScript": "", 
+  "additional_builtins": [], 
+  "programParams": "", 
+  "indentation": 4, 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini"
+  ], 
+  "project-type": "", 
+  "postExecScript": "", 
+  "description": "TO DO LIST (\u043f\u043e \u043f\u0440\u0438\u043e\u0440\u0438\u0442\u0435\u0442\u0443):\n1. \u0412\u0442\u043e\u0440\u043e\u0439 \u0433\u0440\u0430\u0444\u0438\u043a (\u043f\u043e\u0444\u0438\u043a\u0448\u0435\u043d\u043d\u044b\u0439 \u0438 \u043b\u0438\u043d\u0438\u044e)\n2. \u0412\u044b\u0432\u043e\u0434 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0445 \u043a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442\u043e\u0432\n3. \u0412\u043d\u0435\u0448\u043d\u0438\u0439 \u0432\u0438\u0434 \u043f\u0430\u043d\u0435\u043b\u0435\u0439\n4. \u0421\u043a\u0440\u044b\u0442\u044c \u043f\u0430\u043d\u0435\u043b\u0438"
+}
